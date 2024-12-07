@@ -1,0 +1,30 @@
+.transisi{
+    position: fixed;
+    top: 0;
+    transition: 1s;
+}
+
+.transisi2{
+    position: fixed;
+    top: 4;
+    transition: 1s;
+}
+
+.radius{
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+}
+
+#home-image {
+    transition: width 0.6s ease-in-out;
+}
+
+.bg-secondary{
+    background-color: #262626;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+  
